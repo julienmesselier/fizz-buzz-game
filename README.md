@@ -1,2 +1,2 @@
 # fizzbuzz
-several implementations of the fizz buzz exercise in python 
+Several implementations of the fizz buzz exercise in python
