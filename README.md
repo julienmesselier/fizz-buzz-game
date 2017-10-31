@@ -1,2 +1,2 @@
-# fizzbuzz
-Several implementations of the fizz buzz exercise in python
+# fizz-buzz-game
+Several implementations of the fizz-buzz game in python. Used to practice TDD, list comprehensions, iterators, numpy.
