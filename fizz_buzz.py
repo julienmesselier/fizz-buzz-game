@@ -22,7 +22,7 @@ def fizz_buzz_list():
 
 
 def fizz_buzz_variation_1():
-    """Same result as fizz_buzz with a variation in the implementation
+    """Same result as fizz_buzz_list with a variation in the implementation
     One liner using list comprehension, string slicing
     and property of "or" which returns the first valid operand
     """
@@ -44,5 +44,3 @@ def fizz_buzz_variation_2():
     both = (fizz + buzz for fizz, buzz in zip(fizzes, buzzes))
     fizzbuzz = (word or str(number) for (word, number) in zip(both, count(1)))
     return [i for i in islice(fizzbuzz, 100)]
-
-    # Next : 3th variation using machine learning and keras?
