@@ -31,4 +31,3 @@ class TestFizz_buzz_variations(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
-
